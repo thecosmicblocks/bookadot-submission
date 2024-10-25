@@ -1,8 +1,0 @@
-{
-    "extends": "solhint:recommended",
-    "rules": {
-        "func-visibility": ["warn", { "ignoreConstructors": true }],
-        "gas-custom-errors": "off",
-        "reason-string": "off"
-    }
-}
