@@ -17,7 +17,7 @@
 [submodule "bookadot-backend"]
 	path = bookadot-backend
 	url = https://github.com/thecosmicblocks/bookadot-backend
-	branch = master
+	branch = main
 [submodule "bookadot-iac"]
 	path = bookadot-iac
 	url = https://github.com/thecosmicblocks/bookadot-iac
