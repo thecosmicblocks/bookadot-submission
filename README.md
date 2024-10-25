@@ -38,17 +38,6 @@
     - Smart Contract:
     ![bookadot-smart-contract-flow](./doc/bookadot-smart-contract.jpeg)
 
-# Schedule
-
-- Timeline for Activities During Hackathon:
-    - Coding Period: 08.11 – 10.23
-    - Pitch Deck & Demo: 10.20 – 10.22
-    - Registration for Each members: 10.21
-    - Submit: 10.21
-- Completed Features:
-    - Ticketing site for cinema
-    - Marketplace (Still on working)
-
 # Team Information
 
 - Tony
